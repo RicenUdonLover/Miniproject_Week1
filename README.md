@@ -12,5 +12,5 @@
 * Comments were added to make the codes more readable. 
 
 <div align="center">
-  <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" max-height="800">
+  <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" height="800">
 </div>
