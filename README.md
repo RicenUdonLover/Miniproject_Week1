@@ -39,9 +39,10 @@ See screenshots for more details:
 With the changes made above, the webpage is functing as same as before. See screenshots as reference:
 <div align="center">
 <img src="Develop/assets/images/Webpage_before.JPG" alt="Original webpage" title="Click for bigger image" height="400">
-<br>
+</br>
 Original Webpage
+</br>
   <img src="Develop/assets/images/Webpage_after.JPG" alt="Refactored webpage" title="Click for bigger image" height="400">
-  </br>
+</br>
 Refactored Webpage
 </div>
