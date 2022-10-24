@@ -11,7 +11,11 @@
 * Simplified the elements so less code were used for the same function.
 * Comments were added to make the codes more readable. 
 
+See screenshots for more details:
+
 <div align="center">
   <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
+  Original HTML codes
   <img src="Develop/assets/images/HTML_after.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
+  Refactored HTML codes
 </div>
