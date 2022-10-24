@@ -12,5 +12,7 @@
 * Comments were added to make the codes more readable. 
 
 <div align="center">
-  <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" height="800">
+  display: inline-block
+  <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
+  <img src="Develop/assets/images/HTML_after.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
 </div>
