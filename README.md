@@ -28,8 +28,20 @@ See screenshots for more details:
 
 See screenshots for more details:
 <div align="center">
-  <img src="Develop/assets/images/HTML_before.JPG" alt="Original CSS code" title="Click for bigger image" height="800">
-  <img src="Develop/assets/images/HTML_after.JPG" alt="Original CSS code" title="Click for bigger image" height="800">
+  <img src="Develop/assets/images/CSS_before.JPG" alt="Original CSS code" title="Click for bigger image" height="800">
+  <img src="Develop/assets/images/CSS_after.JPG" alt="Original CSS code" title="Click for bigger image" height="800">
   </br>
-  Original HTML codes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Refactored HTML codes
+  Original CSS codes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Refactored CSS codes
+</div>
+
+## The Outcome
+
+With the changes made above, the webpage is functing as same as before. See screenshots as reference:
+<div align="center">
+<img src="Develop/assets/images/Webpage_before.JPG" alt="Original webpage" title="Click for bigger image" height="400">
+<br>
+Original Webpage
+  <img src="Develop/assets/images/Webpage_after.JPG" alt="Refactored webpage" title="Click for bigger image" height="400">
+  </br>
+Refactored Webpage
 </div>
