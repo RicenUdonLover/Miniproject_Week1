@@ -1,10 +1,10 @@
 # Module 1 Challenge
 
-##Objective:
+## Objective:
 * Refactor the starter code to meet HTML and CSS accessibility standard.
 * The application is supposed to functioning as same as the original webpage provided. 
 
-##Changes made to the HTML:
+## Changes made to the HTML:
 
 * Semantic elements were used to replace some of the non-sematic elements.
 * The structure were modified according to the order of elements shown in the webpage.
@@ -12,4 +12,4 @@
 * Comments were added to make the codes more readable. 
 
 <div align="center">
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <img src="./develop/assets/images/HTML_before.jpg" alt="Original HTML code" maxheight="800">
