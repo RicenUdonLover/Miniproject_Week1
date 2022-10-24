@@ -14,8 +14,8 @@
 See screenshots for more details:
 
 <div align="center">
-  <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
-  <img src="Develop/assets/images/HTML_after.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
+  <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" title="Click for bigger image" height="700">
+  <img src="Develop/assets/images/HTML_after.JPG" alt="Original HTML code" title="Click for bigger image" height="700">
   </br>
   Original HTML codes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Refactored HTML codes
 </div>
@@ -28,8 +28,8 @@ See screenshots for more details:
 
 See screenshots for more details:
 <div align="center">
-  <img src="Develop/assets/images/CSS_before.JPG" alt="Original CSS code" title="Click for bigger image" height="800">
-  <img src="Develop/assets/images/CSS_after.JPG" alt="Original CSS code" title="Click for bigger image" height="800">
+  <img src="Develop/assets/images/CSS_before.JPG" alt="Original CSS code" title="Click for bigger image" height="700">
+  <img src="Develop/assets/images/CSS_after.JPG" alt="Original CSS code" title="Click for bigger image" height="700">
   </br>
   Original CSS codes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Refactored CSS codes
 </div>
