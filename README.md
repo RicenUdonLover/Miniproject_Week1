@@ -15,7 +15,7 @@ See screenshots for more details:
 
 <div align="center">
   <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
-  Original HTML codes
   <img src="Develop/assets/images/HTML_after.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
-  Refactored HTML codes
+  </br>
+  Original HTML codes                             Refactored HTML codes
 </div>
