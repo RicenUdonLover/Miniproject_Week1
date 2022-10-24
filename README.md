@@ -49,6 +49,6 @@ Refactored Webpage
 
 ## Installation
 
-The project was uploaded to [github](https://github.com/) repository. You can get access from: [https://github.com/RicenUdonLover/Module_1_Challenge_Lian_Liu](https://github.com/RicenUdonLover/Module_1_Challenge_Lian_Liu).
+The project was uploaded to a [github](https://github.com/) repository. You can get access from: [https://github.com/RicenUdonLover/Module_1_Challenge_Lian_Liu](https://github.com/RicenUdonLover/Module_1_Challenge_Lian_Liu).
 </br>
 You can also see the deployed webpage at: [https://ricenudonlover.github.io/Module_1_Challenge_Lian_Liu/](https://ricenudonlover.github.io/Module_1_Challenge_Lian_Liu/)
