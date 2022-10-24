@@ -17,5 +17,5 @@ See screenshots for more details:
   <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
   <img src="Develop/assets/images/HTML_after.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
   </br>
-  Original HTML codes &emsp; Refactored HTML codes
+  Original HTML codes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Refactored HTML codes
 </div>
