@@ -12,4 +12,4 @@
 * Comments were added to make the codes more readable. 
 
 <div align="center">
-  <img src="Module_1_Challenge_Liu_liu/Develop/assets/images/HTML_before.jpg" alt="Original HTML code" maxheight="800">
+  <img src="[Module_1_Challenge_Liu_liu/Develop/assets/images/HTML_before.jpg]" alt="Original HTML code" maxheight="800">
