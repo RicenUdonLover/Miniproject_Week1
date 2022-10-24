@@ -17,5 +17,19 @@ See screenshots for more details:
   <img src="Develop/assets/images/HTML_before.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
   <img src="Develop/assets/images/HTML_after.JPG" alt="Original HTML code" title="Click for bigger image" height="800">
   </br>
-  Original HTML codes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Refactored HTML codes
+  Original HTML codes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Refactored HTML codes
+</div>
+
+## Changes made to the CSS:
+
+* The structure were modified according to the order of elements shown in the webpage.
+* Used multi-class selectors to combine different elements with same styling.
+* Comments were added to make the codes more readable. 
+
+See screenshots for more details:
+<div align="center">
+  <img src="Develop/assets/images/HTML_before.JPG" alt="Original CSS code" title="Click for bigger image" height="800">
+  <img src="Develop/assets/images/HTML_after.JPG" alt="Original CSS code" title="Click for bigger image" height="800">
+  </br>
+  Original HTML codes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Refactored HTML codes
 </div>
